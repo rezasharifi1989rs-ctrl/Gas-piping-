@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">شیر‌یاب گاز</string>
+    <string name="demo_badge">نمونه‌ی نمایشی (DEMO)</string>
+    <string name="search_valve">جست‌وجوی شیر</string>
+    <string name="tap_incident_hint">نقطه‌ی حادثه را روی خط گاز لمس کنید</string>
+    <string name="confirm_incident">تأیید نقطه‌ی حادثه</string>
+    <string name="cancel">لغو</string>
+    <string name="result_title">شیرهایی که باید بسته شوند</string>
+    <string name="nearest_address">نزدیک‌ترین آدرس</string>
+    <string name="show_on_map">نمایش روی نقشه</string>
+    <string name="safety_banner">این نتیجه کمکی است و جایگزین دستورالعمل رسمی نیست. قبل از اقدام، شیر را در محل تأیید کنید.</string>
+    <string name="station_warning">بین نقطه‌ی حادثه و ایستگاه شیری پیدا نشد. با مرکز عملیات تماس بگیرید.</string>
+    <string name="no_valve_warning">هیچ شیری پیدا نشد. با مرکز عملیات تماس بگیرید.</string>
+    <string name="crossings_note">از %d تقاطع بدون اتصال عبور شد</string>
+    <string name="import_accept">تأیید و استفاده</string>
+    <string name="import_reject">رد</string>
+    <string name="reverse_text">معکوس کردن ترتیب حروف</string>
+    <string name="scale_setting">متر به ازای هر واحد نقشه</string>
+    <string name="crossing_mode">رفتار تقاطع‌ها</string>
+    <string name="unclassified">نامشخص</string>
+
+    <!-- Additional UI helper strings -->
+    <string name="info_title">اطلاعات شبکه و راهنما</string>
+    <string name="dataset_active">مجموعه داده فعال:</string>
+    <string name="import_date">تاریخ بارگذاری:</string>
+    <string name="incident_marker_set">نقطه حادثه تعیین شد (با لمس و کشیدن قابل تنظیم است)</string>
+    <string name="pipes_count">تعداد خطوط: %s</string>
+    <string name="valves_count">تعداد شیرها: %s</string>
+    <string name="stations_count">تعداد ایستگاه‌ها: %s</string>
+    <string name="zoom_in">بزرگ‌نمایی</string>
+    <string name="zoom_out">کوچک‌نمایی</string>
+    <string name="reset_view">مرکز نقشه</string>
+    <string name="legend_title">راهنمای علائم</string>
+    <string name="legend_pipe">خط لوله اصلی گاز</string>
+    <string name="legend_valve">شیر قطع جریان (Bow-tie)</string>
+    <string name="legend_station">ایستگاه گاز (CGS/TBS)</string>
+    <string name="legend_end">نشانگر انتهای خط</string>
+    <string name="legend_crossing">تقاطع دو خط لوله</string>
+    <string name="legend_incident">محل حادثه / نشتی</string>
+    <string name="close">بستن</string>
+    <string name="no_valves_found_search">شیری با این مشخصات یافت نشد</string>
+</resources>

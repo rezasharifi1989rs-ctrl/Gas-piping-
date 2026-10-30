@@ -1,0 +1,6 @@
+{
+  "name": "شیر‌یاب گاز",
+  "description": "سامانه مدیریت و ایزولاسیون شبکه خطوط گاز و تعیین سریع شیرهای قطع اضطراری",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
